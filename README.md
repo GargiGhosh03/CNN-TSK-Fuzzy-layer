@@ -1,1 +1,1 @@
-# Gen-AI-for-Cancer
+# Genetic AI for Cancer
