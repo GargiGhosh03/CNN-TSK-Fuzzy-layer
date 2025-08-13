@@ -1,1 +1,1 @@
-# Genetic AI for Cancer
+# CNN Infused with TSK layer 
